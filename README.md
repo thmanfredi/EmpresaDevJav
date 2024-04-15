@@ -1,1 +1,2 @@
-# EmpresaDevJav
+# EmpresaDevJav - Práctica SQL - Educacion IT
+
